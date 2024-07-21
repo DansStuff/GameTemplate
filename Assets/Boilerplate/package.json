@@ -1,6 +1,6 @@
 {
   "name": "com.dansstuff.gameboilerplate",
-  "version": "0.1",
+  "version": "0.0.1",
   "displayName": "Boilerplate",
   "description": "Boilerplate for core game services + utilities",
   "unity": "2022.3",
